@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601137642313",
+    "firebase_url": "https://lets-chat-ec31b.firebaseio.com",
+    "project_id": "lets-chat-ec31b",
+    "storage_bucket": "lets-chat-ec31b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601137642313:android:8aa1a7ffc3e35721e0f898",
+        "android_client_info": {
+          "package_name": "com.yugant.lets_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601137642313-5cesiquqk7tatiuumvvi00orclhcq5vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZwDKAYrBNJwNIgeHpGhO6gPMOJ-ooOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601137642313-5cesiquqk7tatiuumvvi00orclhcq5vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
